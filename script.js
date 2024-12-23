@@ -4,7 +4,7 @@ function firstWord(s) {
 	if (words.length === 0 || words[0] === ""){
 		return s; 
 	}
-	return words; 
+	return words[0]; 
 	
 }
 
